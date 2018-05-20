@@ -1,0 +1,10 @@
+D:\MyData\GrooveIntern\ASP.NET CORE\TestGit\TestGit\bin\Debug\netcoreapp2.0\TestGit.deps.json
+D:\MyData\GrooveIntern\ASP.NET CORE\TestGit\TestGit\bin\Debug\netcoreapp2.0\TestGit.runtimeconfig.json
+D:\MyData\GrooveIntern\ASP.NET CORE\TestGit\TestGit\bin\Debug\netcoreapp2.0\TestGit.runtimeconfig.dev.json
+D:\MyData\GrooveIntern\ASP.NET CORE\TestGit\TestGit\bin\Debug\netcoreapp2.0\TestGit.dll
+D:\MyData\GrooveIntern\ASP.NET CORE\TestGit\TestGit\bin\Debug\netcoreapp2.0\TestGit.pdb
+D:\MyData\GrooveIntern\ASP.NET CORE\TestGit\TestGit\obj\Debug\netcoreapp2.0\TestGit.csproj.CoreCompileInputs.cache
+D:\MyData\GrooveIntern\ASP.NET CORE\TestGit\TestGit\obj\Debug\netcoreapp2.0\TestGit.AssemblyInfoInputs.cache
+D:\MyData\GrooveIntern\ASP.NET CORE\TestGit\TestGit\obj\Debug\netcoreapp2.0\TestGit.AssemblyInfo.cs
+D:\MyData\GrooveIntern\ASP.NET CORE\TestGit\TestGit\obj\Debug\netcoreapp2.0\TestGit.dll
+D:\MyData\GrooveIntern\ASP.NET CORE\TestGit\TestGit\obj\Debug\netcoreapp2.0\TestGit.pdb
